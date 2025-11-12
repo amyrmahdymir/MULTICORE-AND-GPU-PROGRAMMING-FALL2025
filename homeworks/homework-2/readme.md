@@ -3,6 +3,9 @@
 **Instructor:** Sina Hakimzadeh <br>
 **Due Date:** November 12, 2025
 
+You can upload your assignment using the following link: [Upload Form](https://forms.gle/mCPi67pME7koera3A)
+
+
 
 ## Overview
 

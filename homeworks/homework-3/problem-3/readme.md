@@ -1,4 +1,4 @@
-# HW2 – Parallel Rasterization
+# HW3 – Parallel Rasterization
 **Prepared & Supported by:** Sina Hakimzadeh  
 **Due Date:** December 18, 2025
 

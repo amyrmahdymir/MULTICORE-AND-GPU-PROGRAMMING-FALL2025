@@ -19,8 +19,8 @@ This homework contains **three separate CUDA problems**. Below is a simplified s
 
 You compute:
 
-* `B[i] = A[i] * 10` if `A[i]` is even
-* `B[i] = A[i]` if `A[i]` is odd
+* `B[i] = A[i] * 10` if `i` is even
+* `B[i] = A[i]` if `i` is odd
 
 ### Part 1
 

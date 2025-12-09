@@ -1,4 +1,4 @@
-# Introduction to CUDA: Block-Based Image Coloring
+# HW3 - Block-Based Image Coloring
 **Prepared & Supported by:**  Raha Rahmanian  
 **Due date:** December 18, 2025
 

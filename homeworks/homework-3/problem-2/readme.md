@@ -1,4 +1,4 @@
-# HW3-Masked Computation
+# HW3 - Masked Computation
 **Prepared & Supported by:**  Raha Rahmanian  
 **Due date:** December 18, 2025
 ## Problem Overview

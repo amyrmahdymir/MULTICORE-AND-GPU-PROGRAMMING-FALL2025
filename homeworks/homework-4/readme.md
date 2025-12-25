@@ -1,6 +1,4 @@
 # Homework 4 — CUDA Programming
-
-**Prepared & Supported by:** Sina Hakimzadeh
 **Due Date:** January 2, 2025
 
 This homework consists of **two CUDA programming problems** designed to strengthen your understanding of GPU computation, memory behavior, and performance analysis. Each problem focuses on a different but complementary aspect of CUDA programming: **parallel reduction and memory hierarchy**, and **image processing pipelines on the GPU**.
